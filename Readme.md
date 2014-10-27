@@ -6,7 +6,7 @@ It originally was created to simulate different gameboy palettes, but can do a l
 
 ### How it works
 
-The shader uses the red color component of the target fragment to decide what color it should pick from the LUT.
+The shader uses the red color component of the target fragment to decide what color it should pick from the LUT ([Look-Up Table](http://en.wikipedia.org/wiki/Lookup_table)).
 
 An example LUT with five palettes:
 
