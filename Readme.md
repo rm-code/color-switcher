@@ -10,7 +10,7 @@ The shader uses the red color component of the target fragment to decide what co
 
 An example LUT with five palettes:
 
-![image](https://bbuseruploads.s3.amazonaws.com/rmcode/colour-switcher/downloads/foo.png?Signature=z3U%2FmdfdmoDOcirrLCXvQFk70gk%3D&Expires=1414427824&AWSAccessKeyId=0EMWEFSGA12Z1HF1TZ82)
+![image](https://bytebucket.org/rmcode/colour-switcher/wiki/foo.png?token=4987c86ef483c0b5a9656d7944d7d7948ad52ca2&rev=8766c1d6d9d26fec5bf983b3488b455a366a8dd5)
 
 A red component of 0 would tell the shader to pick the leftmost color from the LUT, whereas a value of 255 would pick the rightmost color. Each line on the y-axis in the LUT represents a different palette.
 
@@ -22,7 +22,7 @@ The example included in the repository shows how the colour switcher can be used
 
 The first LUT has four colours, the second one has eight colours and the third one uses only two colours. 
 
-![image](https://bbuseruploads.s3.amazonaws.com/rmcode/colour-switcher/downloads/example.gif?Signature=Hfptkg6fU63ZTL83d54eScGkqWs%3D&Expires=1414428023&AWSAccessKeyId=0EMWEFSGA12Z1HF1TZ82)
+![image](https://bytebucket.org/rmcode/colour-switcher/wiki/example.gif?token=594dce9b219d99c84f914c980ef41ecaaeb0f8d4&rev=8766c1d6d9d26fec5bf983b3488b455a366a8dd5)
 
 
 ### License
